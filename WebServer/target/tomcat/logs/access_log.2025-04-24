@@ -1,0 +1,11 @@
+127.0.0.1 - - [24/Apr/2025:03:01:05 +0800] "GET /?ide_webview_request_time=1745434865162 HTTP/1.1" 200 912 http-bio-8088-exec-1 64
+127.0.0.1 - - [24/Apr/2025:03:01:05 +0800] "GET /inline.bundle.js HTTP/1.1" 200 6050 http-bio-8088-exec-2 15
+127.0.0.1 - - [24/Apr/2025:03:01:05 +0800] "GET /main.bundle.js HTTP/1.1" 200 75293 http-bio-8088-exec-7 28
+127.0.0.1 - - [24/Apr/2025:03:01:05 +0800] "GET /styles.bundle.js HTTP/1.1" 200 468850 http-bio-8088-exec-5 30
+127.0.0.1 - - [24/Apr/2025:03:01:05 +0800] "GET /polyfills.bundle.js HTTP/1.1" 200 209224 http-bio-8088-exec-3 43
+127.0.0.1 - - [24/Apr/2025:03:01:05 +0800] "GET /scripts.bundle.js HTTP/1.1" 200 808166 http-bio-8088-exec-4 45
+127.0.0.1 - - [24/Apr/2025:03:01:05 +0800] "GET /vendor.bundle.js HTTP/1.1" 200 2731000 http-bio-8088-exec-6 424
+127.0.0.1 - - [24/Apr/2025:03:01:05 +0800] "GET /assets/logo.png HTTP/1.1" 200 9831 http-bio-8088-exec-8 2
+127.0.0.1 - - [24/Apr/2025:03:01:05 +0800] "GET /glyphicons-halflings-regular.448c34a56d699c29117a.woff2 HTTP/1.1" 200 18028 http-bio-8088-exec-9 8
+0:0:0:0:0:0:0:1 - - [24/Apr/2025:03:01:55 +0800] "GET //rest/users/register?username=12345&password=123456 HTTP/1.1" 500 6569 http-bio-8088-exec-10 30050
+0:0:0:0:0:0:0:1 - - [24/Apr/2025:23:34:54 +0800] "GET //rest/users/register?username=123456@qq.com&password=123456 HTTP/1.1" 500 6569 http-bio-8088-exec-1 30039
